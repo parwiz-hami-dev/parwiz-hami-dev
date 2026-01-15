@@ -31,5 +31,5 @@ I focus on building **secure, smart, and real-world systems**.
 ---
 
 ## 📫 Contact
-- Telegram: @YourID
-- Email: your.email@gmail.com
+- Telegram: @En_Hami
+- Email: en.parwiz.hami@gmail.com
